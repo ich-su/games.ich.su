@@ -1,5 +1,9 @@
 ## Онлайн игры - Tetris, Color Tetris, Colris, Color Lines, Click, Sokoban, Сапёр, Пятнашки
 
+* **Год написания:** 2019
+* **Язык, БД:** PHP, JavaScript, jQuery, CSS3, MySQL
+* **Статус:** Архив
+
 [**games.ich.su**](https://games.ich.su):
 
 * 8 игр / более 40 видов игр.
