@@ -2,7 +2,7 @@
 
 * **Год написания:** 2019
 * **Язык, БД:** PHP, JavaScript, jQuery, CSS3, MySQL
-* **Статус:** Архив
+
 
 [**games.ich.su**](https://games.ich.su):
 
