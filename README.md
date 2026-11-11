@@ -27,9 +27,9 @@
 
 Скриншоты:
 
-* ![](https://github.com/ich-z/games.ich.su/blob/main/screenshots/01.png)
-* ![](https://github.com/ich-z/games.ich.su/blob/main/screenshots/02.png)
-* ![](https://github.com/ich-z/games.ich.su/blob/main/screenshots/03.png)
-* ![](https://github.com/ich-z/games.ich.su/blob/main/screenshots/04.png)
-* ![](https://github.com/ich-z/games.ich.su/blob/main/screenshots/05.png)
-* ![](https://github.com/ich-z/games.ich.su/blob/main/screenshots/06.png)
+* ![](./screenshots/01.png)
+* ![](./screenshots/02.png)
+* ![](./screenshots/03.png)
+* ![](./screenshots/04.png)
+* ![](./screenshots/05.png)
+* ![](./screenshots/06.png)
