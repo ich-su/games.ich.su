@@ -37,5 +37,4 @@
 страница проекта на гитхабе:
 [github.com/ich-su/games.ich.su](https://github.com/ich-su/games.ich.su)
 
-games.ich.su:
 [games.ich.su](https://games.ich.su)
